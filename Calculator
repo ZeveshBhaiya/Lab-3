@@ -1,4 +1,3 @@
-console.WriteLine("Zarkhan Altar,24-SET-09") ;
 int a, b;
-S=a-b;
-console. WriteLine("subtract ") ;
+M=a*b;
+console. WriteLine("multiply") ;
