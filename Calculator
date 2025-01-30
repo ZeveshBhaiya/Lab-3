@@ -1,1 +1,3 @@
-console.WriteLine("Zarkhan Altar,24-SET-09") ;
+int a, b;
+D= a/b;
+console. WriteLine("division") ;
