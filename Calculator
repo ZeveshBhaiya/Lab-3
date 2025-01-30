@@ -1,1 +1,9 @@
 console.WriteLine("Zarkhan Altar,24-SET-09") ;
+Subtracting
+int a, b;
+S=a-b;
+console. WriteLine("subtract ") ;
+int a,b; 
+A=a+b;
+Console. WriteLine(A) ;
+Addition
