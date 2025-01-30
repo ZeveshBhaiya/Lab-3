@@ -1,3 +1,3 @@
 int a, b;
-M=a*b;
-console. WriteLine("multiply") ;
+D= a/b;
+console. WriteLine("division") ;
